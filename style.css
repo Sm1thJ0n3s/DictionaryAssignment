@@ -1,0 +1,51 @@
+div{
+    border: 1px solid black;
+    height: 300px;
+    width: 75%;
+    text-align: center;
+    margin: auto;
+    background-color: rgb(114, 28, 67);
+    color: gold;
+}
+
+input, button{
+    border: 1px solid black;
+    border-radius: 0px;
+    color: khaki;
+    background-color: crimson;
+}
+
+input{
+    width:40%;
+    height:7%;
+    margin:10px 3px;
+    color: rgb(71, 71, 71);
+    background-color: blanchedalmond;
+}
+
+b,p{
+    text-align: left;
+    margin: 7.5px 0px 0px 7.5px;
+    font-size:16px;
+    color: black;
+}
+
+b{
+    font-size: 1.1rem;
+    display:block;
+    margin: 7.5px 10px 0px 10px;
+}
+
+.wordResults{
+    width:75%;
+    height:50%;
+    font-size:14px;
+    background-color: rgb(187, 255, 0);
+}
+
+.wordInfo{
+    width: 75%;
+    font-size:14px;
+    color: black;
+    margin: auto;
+}
